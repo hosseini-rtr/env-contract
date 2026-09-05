@@ -14,17 +14,6 @@
 
 - [ ] Pydantic Settings integration
 - [ ] Django integration
-- [ ] Type validation
-- [ ] Choices / enums
-- [ ] Defaults
-- [ ] Secret handling
-
-## v0.3 — Developer Experience
-
-- [ ] Documentation generation
-- [ ] GitHub Actions integration
-- [ ] Docker support
-- [ ] Kubernetes support
 
 ## v1.0 — Production Ready
 
