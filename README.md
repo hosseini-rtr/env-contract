@@ -8,7 +8,6 @@
 - [ ] `.env.example` generation
 - [ ] Environment validation
 - [ ] CLI
-- [ ] CI-friendly exit codes
 
 ## v0.2 — Framework Integration
 
