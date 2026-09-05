@@ -1,2 +1,43 @@
-# env-contract
-Define your application's environment contract once, validate it everywhere, and generate everything else.
+# envcontract — Roadmap
+
+> Define your application's environment contract once, validate it everywhere, and generate everything else.
+
+## v0.1 — MVP
+
+- [ ] Configuration schema
+- [ ] `.env.example` generation
+- [ ] Environment validation
+- [ ] CLI
+- [ ] CI-friendly exit codes
+
+## v0.2 — Framework Integration
+
+- [ ] Pydantic Settings integration
+- [ ] Django integration
+- [ ] Type validation
+- [ ] Choices / enums
+- [ ] Defaults
+- [ ] Secret handling
+
+## v0.3 — Developer Experience
+
+- [ ] Documentation generation
+- [ ] GitHub Actions integration
+- [ ] Docker support
+- [ ] Kubernetes support
+
+## v1.0 — Production Ready
+
+- [ ] Stable schema
+- [ ] Plugin system
+- [ ] Complete documentation
+- [ ] Comprehensive test matrix
+- [ ] PyPI release
+
+## Future
+
+- [ ] YAML schema support
+- [ ] Secret Manager integrations
+- [ ] Configuration drift detection
+- [ ] More framework integrations
+- [ ] IDE/editor integrations
