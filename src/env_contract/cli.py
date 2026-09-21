@@ -22,3 +22,6 @@ if not schema_file.exists():
 
 with schema_file.open() as f:
     schema = yaml.safe_load(f)
+
+
+def main(): ...
