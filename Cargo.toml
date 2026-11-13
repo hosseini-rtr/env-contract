@@ -1,0 +1,12 @@
+[package]
+name = "env-contract"
+version = "0.1.0"
+edition = "2024"
+description = "Environment variable contract, validator, and onboarding CLI"
+license = "MIT"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.9"
+thiserror = "2.0"

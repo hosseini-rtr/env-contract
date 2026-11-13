@@ -100,6 +100,15 @@ variables:
 
 ## CLI Reference
 
+### Build from source
+
+The CLI requires Rust and Cargo. Build and run it from the repository with:
+
+```bash
+cargo build --release
+./target/release/env-contract --help
+```
+
 ### `env-contract init`
 
 Smart initialization based on your workspace state:
